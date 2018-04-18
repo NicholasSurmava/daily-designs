@@ -1,0 +1,29 @@
+{
+  "name": "daily-design",
+  "version": "1.0.0",
+  "description": "Daily Designs by Nicholas Surmava",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "gulp",
+    "deploy": "gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasSurmava/daily-designs.git"
+  },
+  "author": "Nicholas Surmava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicholasSurmava/daily-designs/issues"
+  },
+  "homepage": "https://github.com/NicholasSurmava/daily-designs#readme"
+}
